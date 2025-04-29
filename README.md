@@ -19,3 +19,8 @@
 
 [6岁孩子的亲子阅读陪伴计划>>](./plan/read_book.md)
 
+
+参考资料：https://github.com/langgptai/LangGPT?tab=readme-ov-file
+
+
+
