@@ -15,6 +15,11 @@
 
 [文章润色机器人>>](./robot/writer_prompt.md)
 
+### 文生图
+
+[图片风格大全>>](./text_to_image/pic_style.md)
+[AI生图终极指南（一）：43种风格全解析，设计师必藏！>>](./text_to_image/style.md)
+
 ### 计划 
 
 [6岁孩子的亲子阅读陪伴计划>>](./plan/read_book.md)
