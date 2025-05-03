@@ -33,7 +33,7 @@
 4. 【PPT】生成PPT用通义；
 5. 【聊天】聊天用GPT/Grok/Gemini/DeepSeek/元宝；
 6. 【翻译】翻译或视频加中文字幕用chrome插件“沉浸式翻译”； 
-7. 【阅读】用Google NotebookLM可生成播客讲给你听，用秘塔AI生成课程给你讲课，ima.copilot可建个人知识库，分析财报、论文，都是不错的；
+7. 【阅读】用Google NotebookLM可生成播客讲给你听，ima.copilot可建个人知识库，分析财报、论文，都是不错的；
 8. 【日程】加微信好友元宝，发待办让其整理，长按还能添加到日历。
 
 参考资料：
@@ -42,3 +42,4 @@ https://github.com/langgptai/LangGPT?tab=readme-ov-file
 
 https://chatgpt.com/g/g-YKe3gmydD-promptgpt
 
+https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
