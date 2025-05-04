@@ -35,14 +35,14 @@
 | 场景与建筑风格 | 欧式城堡 | gothic castle, medieval architecture, stone fortress |
 | 场景与建筑风格 | 科幻建筑 | floating city, cyberpunk architecture, futuristic structure |
 | 场景与建筑风格 | 世界奇观 | world wonders, landmark illustration |
+| 设计类风格 | 扁平插图 | flat infographic, minimalist design |
+| 设计类风格 | 图标风 | icon style, line art, simplified graphics |
+| 设计类风格 | UI mock | UI/UX wireframe, mobile app design, interface mockup |
+| 设计类风格 | 等距视图 | isometric design, 3D technical illustration |
+| 设计类风格 | 商业插画 | commercial illustration, marketing visual |
 | 其他创意风格 | 赛博像素 | pixel art, 8-bit style, retro gaming |
 | 其他创意风格 | 概念艺术 | concept art, game concept, entertainment design |
 | 其他创意风格 | 霓虹科技 | neon cyber, glowing edges, digital technology |
 | 其他创意风格 | 蒸汽波 | vaporwave aesthetic, retro glitch, synthwave |
 | 其他创意风格 | 拼贴艺术 | collage art, mixed media |
 | 其他创意风格 | 抽象艺术 | abstract art, non-representational |
-| 设计类风格 | 扁平插图 | flat infographic, minimalist design |
-| 设计类风格 | 图标风 | icon style, line art, simplified graphics |
-| 设计类风格 | UI mock | UI/UX wireframe, mobile app design, interface mockup |
-| 设计类风格 | 等距视图 | isometric design, 3D technical illustration |
-| 设计类风格 | 商业插画 | commercial illustration, marketing visual |
