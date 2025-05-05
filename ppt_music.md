@@ -22,3 +22,11 @@ ffmpeg -i input.mp3 -filter:a "atempo=0.9" -vn output.mp3
 
 > `atempo=0.9` 表示音频速度减慢为原来的 90%，可以设置 0.5～2.0 之间的值。  
   如果需要更慢的速度（如 0.7），必须分段处理或使用 `rubberband` 插件等。
+
+## 一张图与一段wav音频合成mp4
+
+如转换NotebookLM生成的wav音频。
+
+```
+ffmpeg -loop 1 -framerate 25 -i fengmian.png -i audio.wav -c:v libx264 -tune stillimage -preset fast -crf 23 -c:a aac -b:a 128k -shortest output.mp4
+```
